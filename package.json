@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-crud-codaff",
+  "version": "1.0.0",
+  "description": "Lien vidéo youtube : https://www.youtube.com/watch?v=voDummz1gO0&list=PLt8ertVVsAci7SN-aQJ2sXL9hb4xx5dS8&index=32&t=91s",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.3.4",
+    "nodemon": "^1.19.2"
+  }
+}
